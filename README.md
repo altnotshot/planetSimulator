@@ -1,1 +1,1 @@
-# Planet Simulator using pygame
+# Planet Simulator using pygame.
